@@ -1,0 +1,69 @@
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\csc.exe
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\vbc.exe
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\VBCSCompiler.exe
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Physician Directory.dll.config
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Physician Directory.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Physician Directory.pdb
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Antlr3.Runtime.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\EntityFramework.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\EntityFramework.SqlServer.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Newtonsoft.Json.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Owin.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Helpers.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Mvc.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Optimization.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Razor.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.WebPages.Deployment.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.WebPages.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.WebPages.Razor.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\WebGrease.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\EntityFramework.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\EntityFramework.SqlServer.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Helpers.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Mvc.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Optimization.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.Razor.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.WebPages.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.WebPages.Deployment.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\System.Web.WebPages.Razor.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Antlr3.Runtime.pdb
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Newtonsoft.Json.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\obj\Debug\Physician Directory.csprojResolveAssemblyReference.cache
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\obj\Debug\Physician Directory.dll
+C:\Users\michael.dionglay\Documents\Visual Studio 2015\Projects\Physician Directory\Physician Directory\obj\Debug\Physician Directory.pdb
