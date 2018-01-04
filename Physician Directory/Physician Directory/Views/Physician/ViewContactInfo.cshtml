@@ -1,0 +1,70 @@
+﻿@model IEnumerable<Physician_Directory.Models.Physician>
+
+@Styles.Render("~/Content/ViewPhysician.css")
+  @Styles.Render(Layout = "~/Views/Shared/_Layout.cshtml")
+
+
+@Html.Partial("ViewPhysician")
+    <table class="table">
+        <tr>
+            <th>
+                Physician Name
+            </th>
+            <th>
+               Home Address
+            </th>
+            <th>
+                Home Phone
+            </th>
+            <th>
+                Office Address
+            </th>
+            <th>
+                Office Phone
+            </th>
+            <th>
+                Email Address
+            </th>
+            <th>
+                Cellphone Number
+            </th>
+            
+            <th></th>
+        </tr>
+    
+    @foreach (var item in Model) {
+        <tr>
+            <td>
+                @{
+                    string fullName = item.FirstName + " " + item.LastName;
+                }
+                @Html.DisplayFor(modelItem => fullName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactInfo.HomeAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactInfo.HomePhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactInfo.OfficeAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactInfo.OfficePhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactInfo.EmailAddress)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContactInfo.CellphoneNumber)
+            </td>
+            
+            <td>
+                @Html.ActionLink(" ", "EditPhysician", new { id = item.Id }, new { @class = "edit-icon" })
+                @Html.ActionLink(" ", "DeletePhysician", new { id = item.Id }, new { @class = "delete-icon" })
+            </td>
+        </tr>
+    }
+    
+    </table>
+
